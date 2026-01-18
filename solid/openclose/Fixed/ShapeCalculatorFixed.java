@@ -1,4 +1,4 @@
-package solid.openclose.Fixed;
+package solid.openclose.fixed;
 
 import java.util.List;
 
