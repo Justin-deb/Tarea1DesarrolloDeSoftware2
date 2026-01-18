@@ -1,5 +1,8 @@
 import java.util.List;
 
+import solid.openclose.fixed.Rectangle;
+import solid.openclose.fixed.Shape;
+
 public class ShapeCalculatorOriginal {
     public double calculateTotalArea(List<Shape> shapes) {
         double totalArea = 0;
